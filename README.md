@@ -3,6 +3,11 @@
 
 Cody is an AI-powered coding assistant that integrates seamlessly with Visual Studio Code. This README provides an overview of how Cody works and guides you through the setup process.
 
+## Requirements
+
+- Docker and Docker Compose
+- Visual Studio Code
+
 ## Start the ollama docker image
 
 - docker compose up -d
